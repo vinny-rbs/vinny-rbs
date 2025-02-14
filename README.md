@@ -18,7 +18,7 @@
 
 <div>
   <p align="left">
-     <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 8px;">
+     <a href="https://www.w3schools.com/html/" target="_blank" style="margin-right: 8px;">
       <img
         src="https://cdn-icons-png.freepik.com/512/1532/1532556.png"
         alt="html5"
