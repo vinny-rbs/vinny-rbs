@@ -9,6 +9,11 @@
   width="1185"
 />
 
+<div>
+  <img heght="auto" width="40%" src="https://github-readme-stats.vercel.app/api?username=vinny-rbs&show_icons=true&theme=dark">
+  <img heght="auto" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-rbs&layout=compact&langs_count=6&theme=dark">
+</div>
+
 <h1 align="left">Habilidades</h1>
 
 <div>
@@ -58,3 +63,6 @@
   <a href = "mailto:viniciusjunioribeiro05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-rbs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
