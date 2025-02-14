@@ -10,8 +10,8 @@
 />
 
 <div>
-  <img heght="auto" width="40%" src="https://github-readme-stats.vercel.app/api?username=vinny-rbs&show_icons=true&theme=dark">
-  <img heght="auto" width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-rbs&layout=compact&langs_count=6&theme=dark">
+  <img heght="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=vinny-rbs&show_icons=true&theme=dark">
+  <img heght="auto" width="34.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-rbs&layout=compact&langs_count=6&theme=dark">
 </div>
 
 <h1 align="left">Habilidades</h1>
