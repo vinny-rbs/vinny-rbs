@@ -6,7 +6,7 @@
   src="https://i.imgur.com/fhh3xdL.png"
   alt="vinny-rbs header"
   height="auto"
-  width="1185"
+  width="79.5%"
 />
 
 <div>
