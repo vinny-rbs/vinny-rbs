@@ -1,16 +1,52 @@
-## Hi there 👋
+## Vinicius Ribeiro
+**`Desenvolvedor Web | UI / UX | Designer gráfico`**
 
-<!--
-**vinny-rbs/vinny-rbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  align="center"
+  src="https://i.imgur.com/fhh3xdL.png"
+  alt="vinny-rbs header"
+  height="auto"
+  width="1185"
+/>
 
-Here are some ideas to get you started:
+<h1 align="left">Habilidades</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="left">
+     <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://cdn-icons-png.freepik.com/512/1532/1532556.png"
+        alt="html5"
+        width="50"
+        height="50"
+      />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://cdn-icons-png.freepik.com/512/16020/16020753.png?ga=GA1.1.2133446556.1739490995"
+        alt="css3"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank" style="margin-right: 8px;"
+    >
+      <img
+        src="https://cdn-icons-png.freepik.com/512/5968/5968292.png?ga=GA1.1.2133446556.1739490995"
+        alt="javascript"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="https://vuejs.org/" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://i.imgur.com/olf58C4.png"
+        alt="vuejs"
+        width="50"
+        height="50"
+      />
+    </a>
+  </p>
+</div>
