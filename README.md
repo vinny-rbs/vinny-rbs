@@ -3,7 +3,7 @@
 
 <img
   align="center"
-  src="https://i.imgur.com/fhh3xdL.png"
+  src="https://i.imgur.com/Iuk8Fzn.png"
   alt="vinny-rbs header"
   height="auto"
   width="1188"
