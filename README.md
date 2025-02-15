@@ -20,7 +20,7 @@
   <p align="left">
      <a href="https://www.w3schools.com/html/" target="_blank" style="margin-right: 8px;">
       <img
-        src="https://cdn-icons-png.freepik.com/512/1532/1532556.png"
+        src="https://i.imgur.com/EPlPtkS.png"
         alt="html5"
         width="50"
         height="50"
@@ -28,7 +28,7 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 8px;">
       <img
-        src="https://cdn-icons-png.freepik.com/512/16020/16020753.png?ga=GA1.1.2133446556.1739490995"
+        src="https://i.imgur.com/Mugn41W.png"
         alt="css3"
         width="50"
         height="50"
@@ -39,7 +39,7 @@
       target="_blank" style="margin-right: 8px;"
     >
       <img
-        src="https://cdn-icons-png.freepik.com/512/5968/5968292.png?ga=GA1.1.2133446556.1739490995"
+        src="https://i.imgur.com/AhPKvHu.png"
         alt="javascript"
         width="50"
         height="50"
@@ -47,7 +47,31 @@
     </a>
       <a href="https://vuejs.org/" target="_blank" style="margin-right: 8px;">
       <img
-        src="https://i.imgur.com/olf58C4.png"
+        src="https://i.imgur.com/VmJ8f14.png"
+        alt="vuejs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://i.imgur.com/sTJWgzU.png"
+        alt="vuejs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="https://www.python.org" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://i.imgur.com/BKOQX1U.png"
+        alt="vuejs"
+        width="50"
+        height="50"
+      />
+    </a>
+      <a href="https://www.mysql.com" target="_blank" style="margin-right: 8px;">
+      <img
+        src="https://i.imgur.com/FucB5f4.png"
         alt="vuejs"
         width="50"
         height="50"
