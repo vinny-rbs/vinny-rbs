@@ -1,4 +1,4 @@
-## Vinicius Ribeiro
+# Vinicius Ribeiro
 **`Desenvolvedor Web | UI / UX | Designer gráfico`**
 
 <img
@@ -9,78 +9,46 @@
   width="1188"
 />
 
-<div>
-  <img heght="auto" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-rbs&layout=compact&langs_count=6&theme=dark">
-  <img heght="auto" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=vinny-rbs&show_icons=true&theme=dark">
-</div>
+---
 
-<h1 align="left">Habilidades</h1>
+## Linguagens de programação / Design / Ferramentas
 
-<div>
-  <p align="left">
-     <a href="https://www.w3schools.com/html/" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/EPlPtkS.png"
-        alt="html5"
-        width="50"
-        height="50"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/Mugn41W.png"
-        alt="css3"
-        width="50"
-        height="50"
-      />
-    </a>
-      <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank" style="margin-right: 8px;"
-    >
-      <img
-        src="https://i.imgur.com/AhPKvHu.png"
-        alt="javascript"
-        width="50"
-        height="50"
-      />
-    </a>
-      <a href="https://vuejs.org/" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/VmJ8f14.png"
-        alt="vuejs"
-        width="50"
-        height="50"
-      />
-    </a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/sTJWgzU.png"
-        alt="vuejs"
-        width="50"
-        height="50"
-      />
-    </a>
-      <a href="https://www.python.org" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/BKOQX1U.png"
-        alt="vuejs"
-        width="50"
-        height="50"
-      />
-    </a>
-      <a href="https://www.mysql.com" target="_blank" style="margin-right: 8px;">
-      <img
-        src="https://i.imgur.com/FucB5f4.png"
-        alt="vuejs"
-        width="50"
-        height="50"
-      />
-    </a>
-  </p>
-</div>
+<p align="left">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/prettier-%23192a32?style=for-the-badge&logo=prettier&logoColor=dc524a"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 
- <h1>Contatos</h1>
+
+ ## Contatos
 
 <div> 
   <a href="https://www.instagram.com/vinny_rbs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
