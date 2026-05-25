@@ -2,25 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=160&section=header&text=Vinicius%20Ribeiro&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=16" width="100%" />
 <br/>
  
-## Olá, eu sou o Vinicius
+## Olá, eu sou o Vinicius 👋
  
 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIALFA (Goiânia) e
 técnico em Informática pelo SENAC. Atualmente estagiando como desenvolvedor de
 software.
  
-```ts
-const vinicius = {
-  role:      "Estagiário Desenvolvimento de Sistemas",
-  stack:     ["Vue 3", "TypeScript", "Node.js", "Spring Boot", "Tailwind CSS"],
-  db:        ["MySQL", "SQL Server (SSMS)"],
-  atualmente: "Estudando ADS na UNIALFA · Goiânia, BR",
-  contato:   "viniciusderibeiro.work@gmail.com",
-};
-```
- 
 <br/>
  
-## GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=viniciusderibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9&text_color=c9d1d9" />
@@ -42,7 +32,7 @@ const vinicius = {
 
 ---
  
-## Stack
+## Stack 🛠
 
  
 **Frontend**
@@ -59,7 +49,7 @@ const vinicius = {
  
 <br/>
  
-## Contato
+## Contato 📫
  
 <div align="center">
 
