@@ -1,16 +1,21 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=160&section=header&text=Vinicius%20Ribeiro&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=16" width="100%" />
+# Vinicius Ribeiro
+**`Desenvolvedor Web | UI / UX | Designer gráfico`**
 <br/>
- 
-## Olá, eu sou o Vinicius 👋
- 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UNIALFA (Goiânia) e
 técnico em Informática pelo SENAC. Atualmente estagiando como desenvolvedor de
 software.
- 
+
+<br/>
+<img
+  align="center"
+  src="https://i.imgur.com/3veNbPz.png"
+  alt="vinny-rbs header"
+  height="auto"
+  width="1188"
+/>
 <br/>
  
-## GitHub Stats 📊
+## GitHub Status
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=viniciusderibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9&text_color=c9d1d9" />
@@ -32,7 +37,7 @@ software.
 
 ---
  
-## Stack 🛠
+## Stack
 
  
 **Frontend**
@@ -49,7 +54,7 @@ software.
  
 <br/>
  
-## Contato 📫
+## Contato
  
 <div align="center">
 
